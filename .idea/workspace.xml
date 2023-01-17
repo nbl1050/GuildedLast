@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1c1c98e8-6d78-489e-9a86-da8f385a0734" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="2KReyab2SOISfsbZ4Hvl9ceeRgc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.gildedrose" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.Tests in 'gilded-rose-kata.test'">
+    <configuration name="AgedBrieTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.gildedrose.AgedBrieTest&quot; --stacktrace" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="AgedBrieTest.increasesInQuality" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.gildedrose.AgedBrieTest.increasesInQuality&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="GildedRoseTest.increasesInQuality" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.gildedrose.GildedRoseTest.increasesInQuality&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="GildedRoseTest.notOver50Quality" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.gildedrose.GildedRoseTest.notOver50Quality&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tests in 'gilded-rose-kata.test'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests *" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Tests in 'gilded-rose-kata.test'" />
+        <item itemvalue="Gradle.GildedRoseTest.notOver50Quality" />
+        <item itemvalue="Gradle.GildedRoseTest.increasesInQuality" />
+        <item itemvalue="Gradle.AgedBrieTest.increasesInQuality" />
+        <item itemvalue="Gradle.AgedBrieTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c1c98e8-6d78-489e-9a86-da8f385a0734" name="Default Changelist" comment="" />
+      <created>1673942077100</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673942077100</updated>
+      <workItem from="1673942081017" duration="11689000" />
+    </task>
+    <task id="LOCAL-00001" summary="GuildedRose">
+      <created>1673958803406</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673958803406</updated>
+    </task>
+    <task id="LOCAL-00002" summary="GuildedRose">
+      <created>1673959786568</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673959786568</updated>
+    </task>
+    <task id="LOCAL-00003" summary="GuildedRose">
+      <created>1673959870899</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673959870900</updated>
+    </task>
+    <task id="LOCAL-00004" summary="GuildedRose">
+      <created>1673960064311</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673960064311</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="GuildedRose" />
+    <option name="LAST_COMMIT_MESSAGE" value="GuildedRose" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="175" key="#Notifications" timestamp="1673960040486">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="552" y="175" key="#Notifications/1920.2.1536.826/-1920.2.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1673960040486" />
+    <state x="709" y="353" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1673959746732">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="709" y="353" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/1920.2.1536.826/-1920.2.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1673959746732" />
+    <state x="765" y="201" key="#com.intellij.ide.util.MemberChooser" timestamp="1673953477237">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="765" y="201" key="#com.intellij.ide.util.MemberChooser/1920.2.1536.826/-1920.2.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1673953477237" />
+    <state x="502" y="111" key="CommitChangelistDialog2" timestamp="1673960063298">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="502" y="111" key="CommitChangelistDialog2/1920.2.1536.826/-1920.2.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1673960063298" />
+    <state x="740" y="272" key="FileChooserDialogImpl" timestamp="1673960102372">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="740" y="272" key="FileChooserDialogImpl/1920.2.1536.826/-1920.2.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1673960102372" />
+    <state width="1876" height="271" key="GridCell.Tab.0.bottom" timestamp="1673959970594">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1876" height="271" key="GridCell.Tab.0.bottom/1920.2.1536.826/-1920.2.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1673959970594" />
+    <state width="1876" height="271" key="GridCell.Tab.0.center" timestamp="1673959970594">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1876" height="271" key="GridCell.Tab.0.center/1920.2.1536.826/-1920.2.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1673959970594" />
+    <state width="1876" height="271" key="GridCell.Tab.0.left" timestamp="1673959970594">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1876" height="271" key="GridCell.Tab.0.left/1920.2.1536.826/-1920.2.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1673959970594" />
+    <state width="1876" height="271" key="GridCell.Tab.0.right" timestamp="1673959970594">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1876" height="271" key="GridCell.Tab.0.right/1920.2.1536.826/-1920.2.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1673959970594" />
+    <state x="775" y="451" key="ReplaceDuplicatesPrompt" timestamp="1673956196898">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="775" y="451" key="ReplaceDuplicatesPrompt/1920.2.1536.826/-1920.2.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1673956196898" />
+    <state x="552" y="238" key="Vcs.Push.Dialog.v2" timestamp="1673960067999">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="552" y="238" key="Vcs.Push.Dialog.v2/1920.2.1536.826/-1920.2.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1673960067999" />
+    <state x="92" y="92" width="1736" height="848" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1673956055534">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="92" y="92" width="1736" height="848" key="com.intellij.history.integration.ui.views.FileHistoryDialog/1920.2.1536.826/-1920.2.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1673956055534" />
+    <state x="698" y="186" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1673942768101">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="698" y="186" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.2.1536.826/-1920.2.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1673942768101" />
+    <state x="749" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1673960052612">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="749" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.2.1536.826/-1920.2.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1673960052612" />
+    <state x="821" y="352" width="540" height="497" key="extract.method.dialog" timestamp="1673956190658">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="821" y="352" width="540" height="497" key="extract.method.dialog/1920.2.1536.826/-1920.2.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1673956190658" />
+    <state x="591" y="215" width="737" height="602" key="find.popup" timestamp="1673954466293">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="591" y="215" width="737" height="602" key="find.popup/1920.2.1536.826/-1920.2.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1673954466293" />
+    <state x="666" y="136" key="refactoring.ChangeSignatureDialog" timestamp="1673956252687">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="666" y="136" key="refactoring.ChangeSignatureDialog/1920.2.1536.826/-1920.2.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1673956252687" />
+  </component>
+</project>
